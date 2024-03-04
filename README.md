@@ -1,6 +1,7 @@
 <h1> Vendor Management System</h1>
 The Vendor Management System (VMS) is a comprehensive software solution designed to streamline and optimize the process of managing vendors for businesses of all sizes.
 The system provides a centralized platform for businesses to efficiently onboard, communicate with, evaluate, and manage their vendors, ultimately improving operational efficiency and vendor relationships.
+![image](https://github.com/daringsingh22/Vendor_Management_Python_Project/assets/121395485/d6decbd2-dfad-4d9a-87bd-e1a868fa0df9)
 
 
 <h2>Project Setup</h2>

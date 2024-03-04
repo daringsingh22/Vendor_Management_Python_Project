@@ -1,0 +1,5 @@
+# ignore virtual environment file
+venv/
+manage.py
+db.sqlite3
+VendorProfileManagementApp\migrations
